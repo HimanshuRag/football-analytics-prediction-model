@@ -267,9 +267,8 @@ streamlit run app/app.py
 ## 📫 Contact & Connect
 
 **Himanshu Raghav**
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 📧 Email: your.email@example.com  
-- 🌐 Portfolio: [your-portfolio-website.com](https://your-portfolio-website.com)
+- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/himanshu-raghav2001/))
+- 📧 Email: himanshu.raghav.ba@gmail.com  
 - 🐛 GitHub: [@HimanshuRag](https://github.com/HimanshuRag)
 
 ---
